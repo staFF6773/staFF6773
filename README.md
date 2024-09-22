@@ -7,6 +7,8 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/tGta3FpvM3)
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199325937481/)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/962589013921918996)](https://discord.com/users/962589013921918996)
+
 ---
 
 ## 💻 Technologies I Use
